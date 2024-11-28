@@ -15,6 +15,7 @@ taus=c(1:24)/25
 print.taus=c(1:4)/5
 piv.bsp <- npqr(formula=formula, data=npqr, basis=basis.bsp, var="cage", taus=taus, print.taus=print.taus, B=B, nderivs=1,
 average=1, alpha=alpha, process="pivotal", rearrange=FALSE, uniform=TRUE, se="unconditional", printOutput=TRUE, method="fn")
+
 # Nonparametric series quantile regression Use npqr (quantreg.nonpar) With (In) R Software
 # Olah Data Semarang
 # WhatsApp : +6285227746673
