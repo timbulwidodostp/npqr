@@ -1,6 +1,8 @@
 # npqr
 Nonparametric series quantile regression Use npqr (quantreg.nonpar) With (In) R Software
 
+https://www.youtube.com/watch?v=bX3qeczDc68
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
